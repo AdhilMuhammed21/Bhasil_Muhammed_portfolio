@@ -12,3 +12,16 @@ export const abt = (
     </>
   );
   
+
+  export const ROADMAP = [
+    {
+        year : "2022 - Present",
+        role : "Director",
+        company : "Civils 360 IAS academy",
+        description : `As the Director of Civils360 IAS Academy, I oversee the strategic direction and daily 
+        operations of the institute, ensuring that our programs are designed to equip students with the knowledge, skills, and mindset required to excel in
+        the UPSC Civil Services Examination. My role involves mentoring students, curating curriculum, and fostering an environment of continuous learning and development 
+        to shape future leaders of the nation. Through a student-centered approach, I aim to guide aspirants to achieve their highest potential.`
+
+  }
+]
