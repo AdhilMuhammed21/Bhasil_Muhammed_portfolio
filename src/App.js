@@ -8,7 +8,7 @@ import Roadmap from './Components/Roadmap';
 
 function App() {
   return (
-    <div className="flex flex-col overflow-x-hidden">
+    <div className="flex flex-col overflow-x-hidden bg-[#faf9ec]">
       <Nav />
       <Hero />
       <About />
