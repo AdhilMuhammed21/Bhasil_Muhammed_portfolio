@@ -5,7 +5,7 @@ import { MdMarkEmailUnread } from "react-icons/md";
 
 function Footer() {
   return (
-    <div className='py-6 w-full flex flex-col items-center justify-center bg-[#c8815d] gap-6'>
+    <div id="contact" className='py-6 w-full flex flex-col items-center justify-center bg-[#c8815d] gap-6'>
       <div className='pt-6 flex flex-row gap-6 text-2xl md:gap-24 md:text-5xl pb-6'>
         
         <a href="https://www.instagram.com/tryst_with_bhasi/" target="_blank" rel="noopener noreferrer">

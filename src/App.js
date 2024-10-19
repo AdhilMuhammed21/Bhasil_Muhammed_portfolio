@@ -3,18 +3,17 @@ import './App.css';
 import Nav from './Components/Nav';
 import Hero from './Components/Hero';
 import About from './Components/About';
-import Footer from './Components/Footer'
+import Footer from './Components/Footer';
 import Roadmap from './Components/Roadmap';
 
 function App() {
   return (
     <div className="flex flex-col overflow-x-hidden">
-    <Nav/>
-    <Hero/>
-    <About/>
-    <Roadmap/>
-    <Footer/>
-      
+      <Nav />
+      <Hero />
+      <About />
+      <Roadmap />
+      <Footer />
     </div>
   );
 }

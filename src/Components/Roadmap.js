@@ -3,7 +3,7 @@ import {ROADMAP} from '../Constants/Constants'
 
 function Roadmap() {
   return (
-    <div className='px-4 md:border-b border-neutral-900 pb-4 bg-[#e4bfac]'>
+    <div id="roadmap" className='px-4 md:border-b border-neutral-900 pb-4 bg-[#e4bfac]'>
     <h2 className='my-20 text-center text-4xl'>Roadmap</h2>
     <div>
     {ROADMAP.map((roadmap,index)=>(

@@ -4,7 +4,7 @@ import Cutout from '../Components/Cutout.png'
 
 function Hero() {
   return (
-    <div className='px-6 pt-24 lg:pt-32 flex flex-col lg:flex-row w-full h-auto lg:h-screen justify-center items-center bg-[#faf9ec]'>
+    <div id="hero" className='px-6 pt-24 lg:pt-32 flex flex-col lg:flex-row w-full h-auto lg:h-screen justify-center items-center bg-[#faf9ec]'>
       <div className='flex justify-center items-center w-full lg:w-1/2 mb-8 lg:mb-0'>
         <img src={pic} alt='pic' className='hidden md:block object-contain max-h-[850px] lg:max-w-full' /> 
         <img src={Cutout} alt='cutout' className='md:hidden object-contain max-w-xs lg:max-w-full' /> 
