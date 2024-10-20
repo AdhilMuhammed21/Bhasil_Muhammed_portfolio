@@ -9,7 +9,7 @@ function Roadmap() {
     initial={{opacity:0 , y:100}}
     transition={{duration : 0.5,delay:0.5}}
      id="roadmap" className='px-4 md:border-b border-neutral-900 pb-4 bg-[#e4bfac]'>
-    <h2 className='my-20 text-center text-4xl'>Roadmap</h2>
+    <h2 className='my-20 text-center text-4xl'>Milestone</h2>
     <div>
     {ROADMAP.map((roadmap,index)=>(
         <div key={index} className='mb-8 flex flex-wrap lg:justify-center'>
