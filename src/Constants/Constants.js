@@ -1,4 +1,4 @@
-export const desc = `Ex-UPSC aspirant turned entrepreneur, I built Civils360 to empower future civil servants. Passionate about learning and exploration, this site is where those journeys meet!`
+export const desc = `Ex-UPSC aspirant turned entrepreneur, I built Civils360 and The Sociologist to empower future civil servants. Passionate about learning and exploration, this site is where those journeys meet!`
 export const role = `"Director of Civils360 IAS Academy"`
 export const abt = (
     <>
